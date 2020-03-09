@@ -1,0 +1,84 @@
+(S
+  (NP Transvision/NNP)
+  meluncurkan/VB
+  (NP produk/NN unggulan/NN terbaru/JJ)
+  ,/Z
+  (NP Transvision/NNP Xstream/NNP))
+(S
+  /Z
+  (NP Produk/NN streaming/NNP box/NNP)
+  berbasis/VB
+  (NP androidTM/NNP –/Z GoogleTM/NNP Certified/NNP)
+  itu/PR
+  didukung/VB
+  oleh/IN
+  (NP teknologi/NN)
+  yang/SC
+  simple/FW
+  namun/NEG
+  smart/FW
+  dan/CC
+  powerful/FW)
+(S
+  /Z
+  (NP Transvision/NNP Xstream/NNP)
+  menghadirkan/VB
+  (NP tayangan/NN dengan/IN teknologi/NN)
+  streaming/FW
+  dan/CC
+  menjadikan/VB
+  (NP TV/NN di/IN rumah/NN)
+  serasa/VB
+  (NP Smart/NNP TV/NNP))
+(S
+  /Z
+  Dengan/IN
+  menggunakan/VB
+  (NP Transvision/NNP Xstream/NNP ,/Z)
+  (NP pengguna/NN di/IN rumah/NN)
+  dapat/VB
+  langsung/RB
+  menyambungkan/VB
+  (NP Transvision/NNP Xstream/NNP)
+  ke/IN
+  (NP koneksi/NN internet/NN)
+  apapun/RB
+  atau/CC
+  (NP koneksi/NN dari/IN smartphone/FW)
+  Anda/PRP
+  untuk/IN
+  menonton/VB
+  lebih/JJ
+  dari/IN
+  60/CD
+  +/SYM
+  (NP saluran/NN Live/FW TV/NN)
+  ,/Z
+  500/CD
+  +/SYM
+  (NP koleksi/NN Video/FW)
+  -/Z
+  On/FW
+  -/Z
+  Demand/FW
+  (NP film/NN blockbuster/FW premium/FW)
+  dan/CC
+  (NP film/NN Indonesia/NNP))
+(S
+  /Z
+  Hadir/VB
+  dengan/IN
+  (NP ukuran/NN segenggaman/JJ tangan/JJ)
+  dan/CC
+  (NP desain/NN)
+  yang/SC
+  compact/FW
+  dan/CC
+  portable/FW
+  ,/Z
+  (NP Xstream/NNP)
+  menjawab/VB
+  kebutuhan/JJ
+  (NP pasar/NN dengan/IN segala/JJ fitur/NN)
+  yang/SC
+  dimilikinya/VB)
